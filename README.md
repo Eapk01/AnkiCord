@@ -60,6 +60,7 @@ Edit `config.py` with your settings:
 TOKEN = "YOUR_DISCORD_BOT_TOKEN"
 DECK_NAME = "Your Deck Name Here"
 ```
+Note: This was built using the [Core 2000](https://ankiweb.net/shared/info/2141233552) deck. Different decks might require code adjustments due to field differences.
 
 **TIP:** To disable automatic sound playback (recommended for speed):
 
