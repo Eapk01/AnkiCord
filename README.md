@@ -1,4 +1,4 @@
-# AnkiCord 🧠💬
+# AnkiCord 
 
 **AnkiCord** is a Discord bot that lets you review your Anki flashcards *directly through Discord*. Powered by [AnkiConnect](https://foosoft.net/projects/anki-connect/), it integrates with the Anki GUI for an interactive review experience.
 
@@ -89,12 +89,6 @@ Then DM your bot on Discord with `!review` and start studying.
 ## 🚀 Contributing
 
 PRs and ideas welcome! If you have suggestions, feel free to fork and share.
-
----
-
-## 📄 License
-
-MIT License
 
 ---
 
